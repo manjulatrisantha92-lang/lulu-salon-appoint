@@ -1,0 +1,8 @@
+{
+  "name": "WCS Salon Booking & Management",
+  "description": "Multi-Salon SaaS Platform with QR-code mobile booking, smart time-slot and capacity engine, payment receipt verification, and automated WhatsApp notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
